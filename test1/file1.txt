@@ -1,1 +1,1 @@
-test to push from folder to github
+test to push from local folder to direct github
